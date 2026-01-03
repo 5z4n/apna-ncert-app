@@ -16,6 +16,8 @@ It allows students to ask questions and receive contextual answers sourced direc
 - RAG pipeline over NCERT data
 - Cloudflare Tunnel (temporary backend exposure)
 
-## How to Run
-### Backend
-uvicorn api:app --port 8000
+## 📱 APK Download
+Download and install the app directly:
+👉 releases/ApnaNCERT-debug.apk
+
+(Enable "Install from unknown sources" on Android)
