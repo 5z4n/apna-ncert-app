@@ -6,8 +6,8 @@ It allows students to ask questions and receive contextual answers sourced direc
 ## Features
 - Ask academic questions in natural language
 - NCERT-based source grounding
-- Clean academic UI
-- Works on Android and Web
+- Clean academic UI (prototyping standard)
+- Works on Android
 - Real-time answer generation
 
 ## Tech Stack
@@ -18,5 +18,4 @@ It allows students to ask questions and receive contextual answers sourced direc
 
 ## How to Run
 ### Backend
-```bash
 uvicorn api:app --port 8000
